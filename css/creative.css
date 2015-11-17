@@ -482,3 +482,17 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+#portfolio {
+     position: relative;
+    width: 100%;
+    min-height: auto;
+    text-align: center;
+    color: #fff;
+    background-image: url(../img/inertia2-header.jpg);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
